@@ -3,7 +3,7 @@
   <img src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif" width="100%" alt="Banner" />
 </p>
 
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Delvin Joseph</h1>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Akhil M P</h1>
 <h3 align="center"><a href="https://github.com/Akhilmp99"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
 ---
 
